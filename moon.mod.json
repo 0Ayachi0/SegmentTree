@@ -1,0 +1,8 @@
+{
+  "name": "segment-tree",
+  "version": "0.1.0",
+  "description": "线段树实现",
+  "dependencies": {
+    "moonbitlang/core": "0.1.0"
+  }
+} 

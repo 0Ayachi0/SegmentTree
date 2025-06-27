@@ -1,0 +1,25 @@
+// 线段树接口文件
+
+// 类型
+pub struct Node[T] {
+  value : T
+  lazy : T?
+}
+
+pub struct SegmentTree[T] {
+  nodes : Array[Node[T]]
+  data : Array[T]
+  n : Int
+  merge : (T, T) -> T
+  update : (T, T) -> T
+  default : T
+}
+
+// 函数
+pub fn[T] new[T](Array[T], (T, T) -> T, (T, T) -> T, T) -> SegmentTree[T]
+
+pub fn[T] query[T](SegmentTree[T], Int, Int) -> T
+
+pub fn[T] update_point[T](SegmentTree[T], Int, T) -> Unit
+
+pub fn[T] update_range[T](SegmentTree[T], Int, Int, T) -> Unit 
