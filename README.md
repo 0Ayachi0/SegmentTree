@@ -92,9 +92,13 @@ segment_tree.update_range(l, r, value)
 SegmentTree/
 ├── src/                # Source code directory
 │   ├── SegmentTree.mbt    # Segment tree implementation
-│   └── SegmentTree.mbti   # Interface definition
-├── tests/              # Test files
-└── README.md           # Project documentation
+│   ├── SegmentTree.mbti   # Interface definition
+│   ├── SegmentTree_test.mbt # Test implementation
+│   └── moon.pkg.json      # Package configuration
+├── moon.mod.json      # Module configuration
+├── README.md           # Project documentation (English)
+├── README_zh_CN.md     # Project documentation (Chinese)
+└── LICENSE             # License file
 ```
 
 ## 👥 Contribution Guidelines
