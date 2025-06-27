@@ -1,6 +1,6 @@
 # SegmentTree - Efficient Range Operations Data Structure
 
-[English](https://github.com/your-username/SegmentTree/blob/main/README.md) | [简体中文](https://github.com/your-username/SegmentTree/blob/main/README_zh_CN.md)
+[English](https://github.com/0Ayachi0/SegmentTree/blob/main/README.md) | [简体中文](https://github.com/0Ayachi0/SegmentTree/blob/main/README_zh_CN.md)
 
 Segment Tree is a tree data structure that supports efficient range query and range update operations. This library provides a flexible and efficient implementation of Segment Tree in MoonBit language.
 

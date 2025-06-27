@@ -1,6 +1,6 @@
 # 线段树 - 高效区间操作数据结构
 
-[English](https://github.com/your-username/SegmentTree/blob/main/README.md) | [简体中文](https://github.com/your-username/SegmentTree/blob/main/README_zh_CN.md)
+[English](https://github.com/0Ayachi0/SegmentTree/blob/main/README.md) | [简体中文](https://github.com/0Ayachi0/SegmentTree/blob/main/README_zh_CN.md)
 
 线段树是一种支持高效区间查询和区间修改操作的树形数据结构。这个库提供了一个灵活、高效的线段树实现，适用于MoonBit语言。
 
