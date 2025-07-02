@@ -1,1 +1,0 @@
-{"$message_type":"diagnostic","level":"warning","loc":{"path":"D:\\Shixi\\SegmentTree\\src\\SegmentTree.mbt","start":{"line":137,"col":15},"end":{"line":137,"col":21}},"message":"Warning: The type of this expression is (Option[_/0]) -> Unit, which contains unresolved type variables. The type variable is default to Unit.","error_code":13}
